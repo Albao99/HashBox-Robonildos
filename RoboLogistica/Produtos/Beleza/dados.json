@@ -1,0 +1,18 @@
+{
+    "produtos": [
+        {
+            "Id": "LaRochePo_0",
+            "Nome": "LaRochePosayAntheliosAirliciumProtetorSolarFacialAntioleosidadeControleeReduodaOleosidadeFPS80TexturaGelCremeToqueSeco40g",
+            "Preco": "86",
+            "Descricao": "",
+            "SobreProduto": ""
+        },
+        {
+            "Id": "LOralPro_1",
+            "Nome": "LOralProfessionnelShampooAbsolutRepairMolecularReparaDanoseRestauraTodososTiposdeCabelosDanificadosSemSulfatoSERIEEXPERT500ml",
+            "Preco": "255",
+            "Descricao": "",
+            "SobreProduto": ""
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+<produtos>
+    <produto>
+        <nome>Produto1</nome>
+        <precoCusto>50</precoCusto>
+        <detalhes>
+            <detalhe>Detalhe1</detalhe>
+            <detalhe>Detalhe2</detalhe>
+        </detalhes>
+        <descricao>Descrição do Produto 1</descricao>
+    </produto>
+    <produto>
+        <nome>Produto2</nome>
+        <precoCusto>75</precoCusto>
+        <detalhes>
+            <detalhe>Detalhe3</detalhe>
+            <detalhe>Detalhe4</detalhe>
+        </detalhes>
+        <descricao>Descrição do Produto 2</descricao>
+    </produto>
+    <produto>
+        <nome>Produto3</nome>
+        <precoCusto>100</precoCusto>
+        <detalhes>
+            <detalhe>Detalhe5</detalhe>
+            <detalhe>Detalhe6</detalhe>
+        </detalhes>
+        <descricao>Descrição do Produto 3</descricao>
+    </produto>
+</produtos>
